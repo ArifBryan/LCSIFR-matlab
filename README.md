@@ -15,3 +15,17 @@ Chi-Chia Sun, chichiasun@gm.ntpu.edu.tw
 Nguyen-Hoang-Hai Pham, nguyen.pham@uni-luebeck.de  
 Achmad Arif Bryantono, a.arifbryan@gmail.com  
 Jun-Wei Hsieh, jwhsieh@nctu.edu.tw  
+
+## Citing
+If you find our code useful in your research, please kindly cite our paper:
+```latex
+@ARTICLE{11202597,
+  author={Sun, Chi-Chia and Pham, Nguyen-Hoang-Hai and Arif Bryantono, Achmad and Hsieh, Jun-Wei},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Lightweight Computation Single-Image Fog Removal Based on a New Improved Adaptive Dark Channel Prior}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Real-time systems;Image color analysis;Atmospheric modeling;Object detection;Visualization;Autonomous vehicles;Safety;Image restoration;Image enhancement;Computational efficiency;Dark channel prior;dehazing;fog removal;image enhancement;image processing},
+  doi={10.1109/TITS.2025.3616766}}
