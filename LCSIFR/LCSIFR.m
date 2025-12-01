@@ -4,7 +4,7 @@ function [final, recov, trans] = LCSIFR(input, w1, w2, num_iter)
     end
 
     if nargin < 3
-        w2 = 0.65;
+        w2 = 0.6;
     end
 
     if nargin < 2
@@ -13,7 +13,7 @@ function [final, recov, trans] = LCSIFR(input, w1, w2, num_iter)
 
     %% Adaptive omega
     intensityThreshold = 200; 
-    overexposured_T = 0.46; 
+    overexposured_T = 0.43; 
 
     brightChannel = max(input,[],3);
     histogramValues = imhist(brightChannel);
