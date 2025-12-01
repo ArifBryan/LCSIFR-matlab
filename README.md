@@ -24,8 +24,8 @@ If you find our code useful in your research, please kindly cite our paper:
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Lightweight Computation Single-Image Fog Removal Based on a New Improved Adaptive Dark Channel Prior}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-11},
+  volume={26},
+  number={11},
+  pages={19768-19778},
   keywords={Real-time systems;Image color analysis;Atmospheric modeling;Object detection;Visualization;Autonomous vehicles;Safety;Image restoration;Image enhancement;Computational efficiency;Dark channel prior;dehazing;fog removal;image enhancement;image processing},
   doi={10.1109/TITS.2025.3616766}}
